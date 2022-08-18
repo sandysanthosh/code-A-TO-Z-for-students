@@ -16,6 +16,7 @@
 + <a href = "https://anh.cs.luc.edu/331/notes/PythonBasics.pdf"> Python Basics</a>
 + <a href = "https://automatetheboringstuff.com/"> Automate the Boring Stuff with Python</a>
 + <a href = "https://bit.ly/2D3wHsf">CS Dojo's Tips to write efficient code.</a>
++ <a href = "https://www.scaler.com/topics/python/">Python Tutorial for Beginners</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
